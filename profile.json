@@ -18,9 +18,9 @@
   "featured": [
     "locbeauty/locbeauty-front",
     "locbeauty/locbeauty-fastify",
-    "Rhauan178/Stoki",
     "matheusppassos/template-backend",
-    "matheusppassos/template-front"
+    "matheusppassos/template-front",
+    "Rhauan178/Stoki"
   ],
   "stack_groups": [
     {
