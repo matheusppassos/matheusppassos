@@ -16,10 +16,21 @@
    "full": "matheusppassos/Calculadora",
    "url": "https://github.com/matheusppassos/Calculadora",
    "private": false,
-   "description": "",
+   "description": "Uma calculadora simples em java",
    "language": "Java",
    "commits": [
     "2026-03-18"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/desafio-banco",
+   "url": "https://github.com/matheusppassos/desafio-banco",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-02-19"
    ],
    "total": 1
   },
@@ -40,7 +51,7 @@
    "full": "matheusppassos/DesafioMusica",
    "url": "https://github.com/matheusppassos/DesafioMusica",
    "private": false,
-   "description": "",
+   "description": "Desafio para criar uma plataforma de música",
    "language": "Java",
    "commits": [
     "2026-03-06"
@@ -51,7 +62,7 @@
    "full": "matheusppassos/Game-Java",
    "url": "https://github.com/matheusppassos/Game-Java",
    "private": false,
-   "description": "",
+   "description": "Um mini jogo criado com Java",
    "language": "Java",
    "commits": [
     "2025-08-05",
@@ -63,75 +74,10 @@
    "full": "matheusppassos/IntegracaoAPI",
    "url": "https://github.com/matheusppassos/IntegracaoAPI",
    "private": false,
-   "description": "",
+   "description": "API teste de integração entre Laboratório, SISCAN e Conecta Recife",
    "language": "Java",
    "commits": [
     "2026-03-02"
-   ],
-   "total": 1
-  },
-  {
-   "full": "matheusppassos/Stoki",
-   "url": "https://github.com/matheusppassos/Stoki",
-   "private": false,
-   "description": "",
-   "language": "Java",
-   "commits": [
-    "2025-10-16",
-    "2025-10-16",
-    "2025-10-16",
-    "2025-10-20",
-    "2025-10-20"
-   ],
-   "total": 5
-  },
-  {
-   "full": "Rhauan178/Stoki",
-   "url": "https://github.com/Rhauan178/Stoki",
-   "private": false,
-   "description": "",
-   "language": "Java",
-   "commits": [
-    "2025-09-29",
-    "2025-09-30",
-    "2025-10-06",
-    "2025-10-06",
-    "2025-10-20",
-    "2025-10-20",
-    "2025-11-03",
-    "2025-11-03",
-    "2025-11-03",
-    "2025-11-03",
-    "2025-11-04",
-    "2025-11-04",
-    "2025-11-07",
-    "2025-11-07",
-    "2025-11-07",
-    "2026-02-06",
-    "2026-02-07",
-    "2026-03-21"
-   ],
-   "total": 39
-  },
-  {
-   "full": "matheusppassos/TicketAPI",
-   "url": "https://github.com/matheusppassos/TicketAPI",
-   "private": false,
-   "description": "",
-   "language": "Java",
-   "commits": [
-    "2026-03-26"
-   ],
-   "total": 1
-  },
-  {
-   "full": "matheusppassos/desafio-banco",
-   "url": "https://github.com/matheusppassos/desafio-banco",
-   "private": false,
-   "description": "",
-   "language": "Java",
-   "commits": [
-    "2026-02-19"
    ],
    "total": 1
   },
@@ -140,7 +86,7 @@
    "url": "https://github.com/matheusppassos/jogo-do-numero-secreto",
    "private": false,
    "description": "",
-   "language": "JavaScript",
+   "language": "HTML",
    "commits": [
     "2025-10-29",
     "2025-10-30",
@@ -154,6 +100,43 @@
     "2025-11-03"
    ],
    "total": 10
+  },
+  {
+   "full": "matheusppassos/poolcontrol",
+   "url": "https://github.com/matheusppassos/poolcontrol",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-09-28"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/Stoki",
+   "url": "https://github.com/matheusppassos/Stoki",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2025-10-17",
+    "2025-10-17",
+    "2025-10-17",
+    "2025-10-20",
+    "2025-10-20"
+   ],
+   "total": 5
+  },
+  {
+   "full": "matheusppassos/TicketAPI",
+   "url": "https://github.com/matheusppassos/TicketAPI",
+   "private": false,
+   "description": "API de gerenciamento de tickets",
+   "language": "Java",
+   "commits": [
+    "2026-03-26"
+   ],
+   "total": 1
   },
   {
    "full": "locbeauty/locbeauty-front",
@@ -179,7 +162,7 @@
     "2026-05-27",
     "2026-05-27",
     "2026-05-27",
-    "2026-06-01",
+    "2026-06-02",
     "2026-06-10",
     "2026-06-11",
     "2026-06-11",
@@ -201,7 +184,7 @@
     "2026-08-28",
     "2026-09-22",
     "2026-09-22",
-    "2026-09-22",
+    "2026-09-23",
     "2026-09-24",
     "2026-09-24",
     "2026-09-24",
@@ -211,15 +194,32 @@
    "total": 515
   },
   {
-   "full": "matheusppassos/poolcontrol",
-   "url": "https://github.com/matheusppassos/poolcontrol",
+   "full": "Rhauan178/Stoki",
+   "url": "https://github.com/Rhauan178/Stoki",
    "private": false,
-   "description": "",
+   "description": "Startup voltada para auxílio no gerenciamento de mesas e ingredientes de restaurantes e bares.",
    "language": "Java",
    "commits": [
-    "2026-09-28"
+    "2025-09-30",
+    "2025-09-30",
+    "2025-10-07",
+    "2025-10-07",
+    "2025-10-20",
+    "2025-10-20",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-04",
+    "2025-11-04",
+    "2025-11-07",
+    "2025-11-07",
+    "2025-11-07",
+    "2026-02-06",
+    "2026-02-07",
+    "2026-03-21"
    ],
-   "total": 1
+   "total": 39
   },
   {
    "full": "matheusppassos/template-backend",
