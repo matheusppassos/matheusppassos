@@ -84,8 +84,16 @@ def collect_api(cfg, previous):
     skip = {f"{user}/{user}".lower()} | {r.lower() for r in cfg.get("exclude_repos", [])}
     listing = "/user/repos?affiliation=owner" if SEES_PRIVATE else f"/users/{user}/repos?type=owner"
     metas = [r for r in paged(listing) if not r["fork"]]
-    metas += [api(f"/repos/{full}") for full in cfg.get("extra_repos", [])]
     repos, seen = [], set()
+    for full in cfg.get("extra_repos", []):
+        try:
+            metas.append(api(f"/repos/{full}"))
+        except urllib.error.HTTPError as e:
+            if e.code not in (403, 404):  # token sem acesso a um privado de outra conta
+                raise
+            print(f"aviso: sem acesso a {full}, mantendo os dados anteriores")
+            repos += [r for r in previous if r["full"].lower() == full.lower()]
+            seen.add(full.lower())
     for m in metas:
         full = m["full_name"]
         if full.lower() in skip or full.lower() in seen:

@@ -11,11 +11,13 @@
   ],
   "extra_repos": [
     "locbeauty/locbeauty-front",
+    "locbeauty/locbeauty-fastify",
     "Rhauan178/Stoki"
   ],
   "exclude_repos": [],
   "featured": [
     "locbeauty/locbeauty-front",
+    "locbeauty/locbeauty-fastify",
     "Rhauan178/Stoki",
     "matheusppassos/template-backend",
     "matheusppassos/template-front"
@@ -74,6 +76,21 @@
         "React",
         "Tailwind CSS",
         "TanStack Query"
+      ],
+      "team": true
+    },
+    "locbeauty/locbeauty-fastify": {
+      "title": "LocBeauty API",
+      "about": "API da plataforma de locação de equipamentos: agendamentos, clientes, filiais, rotas e metas, com login JWT.",
+      "blurb": "API da plataforma de locação de equipamentos: agenda, clientes, filiais, rotas e metas.",
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL",
+        "Docker",
+        "Vitest"
       ],
       "team": true
     },
