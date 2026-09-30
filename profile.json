@@ -17,8 +17,8 @@
   "featured": [
     "locbeauty/locbeauty-front",
     "Rhauan178/Stoki",
-    "matheusppassos/TicketAPI",
-    "matheusppassos/Alerta-Deslizamento"
+    "matheusppassos/template-backend",
+    "matheusppassos/template-front"
   ],
   "stack_groups": [
     {
@@ -94,6 +94,7 @@
     "matheusppassos/template-front": {
       "title": "Template Web",
       "about": "Front-end base para sistemas de gestão: painel, agenda, clientes, equipamentos, financeiro, rotas e metas.",
+      "blurb": "Front-end base para sistemas de gestão: painel, agenda, clientes e financeiro.",
       "stack": [
         "TypeScript",
         "Next.js",
@@ -105,6 +106,7 @@
     "matheusppassos/template-backend": {
       "title": "Template API",
       "about": "API base para sistemas de gestão, com agenda, clientes, financeiro, rotas, metas e acesso por filial.",
+      "blurb": "API base para sistemas de gestão: agenda, clientes, financeiro, rotas e metas.",
       "stack": [
         "TypeScript",
         "Node.js",
