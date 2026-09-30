@@ -1,0 +1,300 @@
+{
+ "generated": "2026-09-30",
+ "repos": [
+  {
+   "full": "matheusppassos/Alerta-Deslizamento",
+   "url": "https://github.com/matheusppassos/Alerta-Deslizamento",
+   "private": false,
+   "description": "",
+   "language": "C++",
+   "commits": [
+    "2026-05-01"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/Calculadora",
+   "url": "https://github.com/matheusppassos/Calculadora",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-03-18"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/DesafioItau",
+   "url": "https://github.com/matheusppassos/DesafioItau",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-02-19",
+    "2026-02-19",
+    "2026-02-19"
+   ],
+   "total": 3
+  },
+  {
+   "full": "matheusppassos/DesafioMusica",
+   "url": "https://github.com/matheusppassos/DesafioMusica",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-03-06"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/Game-Java",
+   "url": "https://github.com/matheusppassos/Game-Java",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2025-08-05",
+    "2025-08-05"
+   ],
+   "total": 2
+  },
+  {
+   "full": "matheusppassos/IntegracaoAPI",
+   "url": "https://github.com/matheusppassos/IntegracaoAPI",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-03-02"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/Stoki",
+   "url": "https://github.com/matheusppassos/Stoki",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2025-10-16",
+    "2025-10-16",
+    "2025-10-16",
+    "2025-10-20",
+    "2025-10-20"
+   ],
+   "total": 5
+  },
+  {
+   "full": "Rhauan178/Stoki",
+   "url": "https://github.com/Rhauan178/Stoki",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2025-09-29",
+    "2025-09-30",
+    "2025-10-06",
+    "2025-10-06",
+    "2025-10-20",
+    "2025-10-20",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-03",
+    "2025-11-04",
+    "2025-11-04",
+    "2025-11-07",
+    "2025-11-07",
+    "2025-11-07",
+    "2026-02-06",
+    "2026-02-07",
+    "2026-03-21"
+   ],
+   "total": 39
+  },
+  {
+   "full": "matheusppassos/TicketAPI",
+   "url": "https://github.com/matheusppassos/TicketAPI",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-03-26"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/desafio-banco",
+   "url": "https://github.com/matheusppassos/desafio-banco",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-02-19"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/jogo-do-numero-secreto",
+   "url": "https://github.com/matheusppassos/jogo-do-numero-secreto",
+   "private": false,
+   "description": "",
+   "language": "JavaScript",
+   "commits": [
+    "2025-10-29",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-10-30",
+    "2025-11-03",
+    "2025-11-03"
+   ],
+   "total": 10
+  },
+  {
+   "full": "locbeauty/locbeauty-front",
+   "url": "https://github.com/locbeauty/locbeauty-front",
+   "private": false,
+   "description": "",
+   "language": "TypeScript",
+   "commits": [
+    "2026-03-21",
+    "2026-05-11",
+    "2026-05-11",
+    "2026-05-11",
+    "2026-05-11",
+    "2026-05-13",
+    "2026-05-23",
+    "2026-05-25",
+    "2026-05-25",
+    "2026-05-25",
+    "2026-05-25",
+    "2026-05-26",
+    "2026-05-26",
+    "2026-05-27",
+    "2026-05-27",
+    "2026-05-27",
+    "2026-05-27",
+    "2026-06-01",
+    "2026-06-10",
+    "2026-06-11",
+    "2026-06-11",
+    "2026-06-15",
+    "2026-06-15",
+    "2026-06-16",
+    "2026-06-16",
+    "2026-06-18",
+    "2026-06-18",
+    "2026-06-27",
+    "2026-06-27",
+    "2026-07-01",
+    "2026-07-03",
+    "2026-07-05",
+    "2026-07-10",
+    "2026-07-29",
+    "2026-08-17",
+    "2026-08-25",
+    "2026-08-28",
+    "2026-09-22",
+    "2026-09-22",
+    "2026-09-22",
+    "2026-09-24",
+    "2026-09-24",
+    "2026-09-24",
+    "2026-09-30",
+    "2026-09-30"
+   ],
+   "total": 515
+  },
+  {
+   "full": "matheusppassos/poolcontrol",
+   "url": "https://github.com/matheusppassos/poolcontrol",
+   "private": false,
+   "description": "",
+   "language": "Java",
+   "commits": [
+    "2026-09-28"
+   ],
+   "total": 1
+  },
+  {
+   "full": "matheusppassos/template-backend",
+   "url": "https://github.com/matheusppassos/template-backend",
+   "private": true,
+   "description": "",
+   "language": "TypeScript",
+   "commits": [
+    "2026-09-08",
+    "2026-09-14",
+    "2026-09-14",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-18",
+    "2026-09-20",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-23",
+    "2026-09-23",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-27",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28"
+   ],
+   "total": 28
+  },
+  {
+   "full": "matheusppassos/template-front",
+   "url": "https://github.com/matheusppassos/template-front",
+   "private": true,
+   "description": "",
+   "language": "TypeScript",
+   "commits": [
+    "2026-09-08",
+    "2026-09-14",
+    "2026-09-14",
+    "2026-09-15",
+    "2026-09-15",
+    "2026-09-16",
+    "2026-09-17",
+    "2026-09-17",
+    "2026-09-18",
+    "2026-09-18",
+    "2026-09-20",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-23",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-25",
+    "2026-09-27",
+    "2026-09-27",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28",
+    "2026-09-28"
+   ],
+   "total": 27
+  }
+ ]
+}

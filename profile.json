@@ -1,0 +1,210 @@
+{
+  "user": "matheusppassos",
+  "name": "Matheus Passos",
+  "role": "Desenvolvedor Full Stack",
+  "headline": [
+    "Java",
+    "Spring Boot",
+    "TypeScript",
+    "React",
+    "Next.js"
+  ],
+  "extra_repos": [
+    "locbeauty/locbeauty-front",
+    "Rhauan178/Stoki"
+  ],
+  "exclude_repos": [],
+  "featured": [
+    "locbeauty/locbeauty-front",
+    "Rhauan178/Stoki",
+    "matheusppassos/TicketAPI",
+    "matheusppassos/Alerta-Deslizamento"
+  ],
+  "stack_groups": [
+    {
+      "label": "Linguagens",
+      "items": [
+        "Java",
+        "TypeScript",
+        "JavaScript",
+        "C++"
+      ]
+    },
+    {
+      "label": "Back-end",
+      "items": [
+        "Spring Boot",
+        "Node.js",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL",
+        "Spring Data JPA",
+        "OpenAPI"
+      ]
+    },
+    {
+      "label": "Front-end",
+      "items": [
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "TanStack Query",
+        "JavaFX"
+      ]
+    },
+    {
+      "label": "Ferramentas",
+      "items": [
+        "Maven",
+        "Docker",
+        "Vitest",
+        "Arduino",
+        "PlatformIO"
+      ]
+    }
+  ],
+  "repos": {
+    "locbeauty/locbeauty-front": {
+      "title": "LocBeauty",
+      "about": "Plataforma de gestão para locação de equipamentos: agendamentos, filiais, clientes, rotas, metas e dashboards.",
+      "blurb": "Gestão de locação de equipamentos: agenda, filiais, clientes, rotas e metas.",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "TanStack Query"
+      ],
+      "team": true
+    },
+    "Rhauan178/Stoki": {
+      "title": "Stoki",
+      "about": "Gestão de restaurantes e bares: mesas, pedidos e estoque de ingredientes com baixa automática.",
+      "blurb": "Gestão de restaurantes e bares: mesas, pedidos e estoque com baixa automática.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "JavaFX",
+        "React",
+        "JavaScript",
+        "Maven"
+      ],
+      "team": true
+    },
+    "matheusppassos/template-front": {
+      "title": "Template Web",
+      "about": "Front-end base para sistemas de gestão: painel, agenda, clientes, equipamentos, financeiro, rotas e metas.",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "React",
+        "Tailwind CSS",
+        "TanStack Query"
+      ]
+    },
+    "matheusppassos/template-backend": {
+      "title": "Template API",
+      "about": "API base para sistemas de gestão, com agenda, clientes, financeiro, rotas, metas e acesso por filial.",
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "Fastify",
+        "Prisma",
+        "PostgreSQL",
+        "Docker",
+        "Vitest"
+      ]
+    },
+    "matheusppassos/Stoki": {
+      "title": "Stoki (protótipo)",
+      "about": "Primeira versão do Stoki, com as telas desktop do restaurante em JavaFX.",
+      "stack": [
+        "Java",
+        "JavaFX"
+      ]
+    },
+    "matheusppassos/TicketAPI": {
+      "title": "TicketAPI",
+      "about": "API REST de chamados com prioridade e status, validação, persistência JPA e documentação OpenAPI.",
+      "blurb": "API REST de chamados com prioridade, status, JPA e documentação OpenAPI.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Spring Data JPA",
+        "H2",
+        "OpenAPI",
+        "Maven"
+      ]
+    },
+    "matheusppassos/Alerta-Deslizamento": {
+      "title": "Alerta de Deslizamento",
+      "about": "Protótipo com Arduino: o sensor detecta movimento do solo, dispara o alarme e aciona a bomba d'água.",
+      "blurb": "Arduino detecta movimento do solo, dispara o alarme e liga a bomba d'água.",
+      "stack": [
+        "C++",
+        "Arduino",
+        "PlatformIO"
+      ]
+    },
+    "matheusppassos/DesafioItau": {
+      "title": "Desafio Itaú",
+      "about": "API REST de transações com cálculo de estatísticas, atualizada para Java 21.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Maven"
+      ]
+    },
+    "matheusppassos/IntegracaoAPI": {
+      "title": "Integração Saúde",
+      "about": "API para receber e integrar resultados de exames laboratoriais.",
+      "stack": [
+        "Java",
+        "Spring Boot",
+        "Maven"
+      ]
+    },
+    "matheusppassos/poolcontrol": {
+      "title": "PoolControl",
+      "about": "Controle de entrada e saída da piscina do condomínio, respeitando a capacidade máxima.",
+      "stack": [
+        "Java"
+      ]
+    },
+    "matheusppassos/jogo-do-numero-secreto": {
+      "title": "Jogo do Número Secreto",
+      "about": "Jogo web de adivinhação com narração por voz.",
+      "stack": [
+        "JavaScript"
+      ]
+    },
+    "matheusppassos/Calculadora": {
+      "title": "Calculadora",
+      "about": "Calculadora em Java.",
+      "stack": [
+        "Java"
+      ]
+    },
+    "matheusppassos/DesafioMusica": {
+      "title": "Minhas Músicas",
+      "about": "Modelagem orientada a objetos de músicas, podcasts e favoritos.",
+      "stack": [
+        "Java"
+      ]
+    },
+    "matheusppassos/desafio-banco": {
+      "title": "Desafio Banco",
+      "about": "Interface de conta bancária no terminal.",
+      "stack": [
+        "Java"
+      ]
+    },
+    "matheusppassos/Game-Java": {
+      "title": "Game Java",
+      "about": "Minijogo de batalha por turnos entre avatares.",
+      "stack": [
+        "Java"
+      ]
+    }
+  }
+}
