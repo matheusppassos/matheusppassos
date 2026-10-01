@@ -1,5 +1,5 @@
 <!-- header:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Matheus Passos, Desenvolvedor Full Stack. Java, Spring Boot, TypeScript, React, Next.js. 181 commits em 16 repositórios." src="assets/header-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Matheus Passos, Desenvolvedor Full Stack. Java, Spring Boot, TypeScript, React, Next.js. 182 commits em 17 repositórios." src="assets/header-light.svg" width="100%"></picture>
 <!-- header:end -->
 
 Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **Java e Spring Boot** e com **Node.js, Fastify e Prisma**; no front-end, interfaces com **React, Next.js e TypeScript**. Hoje contribuo com o front-end e a API da **LocBeauty**, uma plataforma de gestão de locação de equipamentos, mantenho templates full stack para sistemas de gestão e sigo praticando com desafios de back-end, projetos em equipe e um pouco de hardware com Arduino.
@@ -13,7 +13,7 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 ## Linha do tempo de commits
 
 <!-- timeline:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img alt="Linha do tempo com 181 commits em 16 repositórios, de agosto 2025 a setembro 2026. Os números de cada repositório estão na tabela abaixo." src="assets/timeline-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img alt="Linha do tempo com 182 commits em 17 repositórios, de agosto 2025 a outubro 2026. Os números de cada repositório estão na tabela abaixo." src="assets/timeline-light.svg" width="100%"></picture>
 <!-- timeline:end -->
 
 ## Stack
@@ -29,6 +29,7 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 | :-- | :-- | --: |
 | [**LocBeauty**](https://github.com/locbeauty/locbeauty-front)<br><sub>em equipe · locbeauty</sub> | Plataforma de gestão para locação de equipamentos: agendamentos, filiais, clientes, rotas, metas e dashboards.<br>`TypeScript` `Next.js` `React` `Tailwind CSS` `TanStack Query` | **45**&nbsp;de&nbsp;515<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | **LocBeauty API**<br><sub>privado</sub> | API da plataforma de locação de equipamentos: agendamentos, clientes, filiais, rotas e metas, com login JWT.<br>`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker` `Vitest` | **36**&nbsp;de&nbsp;341<br><sub>último:&nbsp;set&nbsp;2026</sub> |
+| [**LocalTuristico**](https://github.com/matheusppassos/LocalTuristico) | Sem descrição.<br>`HTML` | **1**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | **Template API**<br><sub>privado</sub> | API base para sistemas de gestão, com agenda, clientes, financeiro, rotas, metas e acesso por filial.<br>`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker` `Vitest` | **28**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | **Template Web**<br><sub>privado</sub> | Front-end base para sistemas de gestão: painel, agenda, clientes, equipamentos, financeiro, rotas e metas.<br>`TypeScript` `Next.js` `React` `Tailwind CSS` `TanStack Query` | **27**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | [**PoolControl**](https://github.com/matheusppassos/poolcontrol) | Controle de entrada e saída da piscina do condomínio, respeitando a capacidade máxima.<br>`Java` | **1**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
@@ -44,5 +45,5 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 | [**Stoki (protótipo)**](https://github.com/matheusppassos/Stoki) | Primeira versão do Stoki, com as telas desktop do restaurante em JavaFX.<br>`Java` `JavaFX` | **5**<br><sub>último:&nbsp;out&nbsp;2025</sub> |
 | [**Game Java**](https://github.com/matheusppassos/Game-Java) | Minijogo de batalha por turnos entre avatares.<br>`Java` | **2**<br><sub>último:&nbsp;ago&nbsp;2025</sub> |
 
-<sub>181 commits meus em 16 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 30 set 2026.</sub>
+<sub>182 commits meus em 17 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 1 out 2026.</sub>
 <!-- repos:end -->
