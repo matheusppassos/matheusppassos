@@ -45,5 +45,5 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 | [**Stoki (protótipo)**](https://github.com/matheusppassos/Stoki) | Primeira versão do Stoki, com as telas desktop do restaurante em JavaFX.<br>`Java` `JavaFX` | **5**<br><sub>último:&nbsp;out&nbsp;2025</sub> |
 | [**Game Java**](https://github.com/matheusppassos/Game-Java) | Minijogo de batalha por turnos entre avatares.<br>`Java` | **2**<br><sub>último:&nbsp;ago&nbsp;2025</sub> |
 
-<sub>182 commits meus em 17 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 6 out 2026.</sub>
+<sub>182 commits meus em 17 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 7 out 2026.</sub>
 <!-- repos:end -->
