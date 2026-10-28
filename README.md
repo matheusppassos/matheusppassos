@@ -1,5 +1,5 @@
 <!-- header:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Matheus Passos, Desenvolvedor Full Stack. Java, Spring Boot, TypeScript, React, Next.js. 182 commits em 17 repositórios." src="assets/header-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img alt="Matheus Passos, Desenvolvedor Full Stack. Java, Spring Boot, TypeScript, React, Next.js. 183 commits em 17 repositórios." src="assets/header-light.svg" width="100%"></picture>
 <!-- header:end -->
 
 Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **Java e Spring Boot** e com **Node.js, Fastify e Prisma**; no front-end, interfaces com **React, Next.js e TypeScript**. Hoje contribuo com o front-end e a API da **LocBeauty**, uma plataforma de gestão de locação de equipamentos, mantenho templates full stack para sistemas de gestão e sigo praticando com desafios de back-end, projetos em equipe e um pouco de hardware com Arduino.
@@ -7,13 +7,13 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 ## Em destaque
 
 <!-- featured:start -->
-<p><a href="https://github.com/locbeauty/locbeauty-front"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-locbeauty-locbeauty-front-dark.svg"><img alt="LocBeauty: Gestão de locação de equipamentos: agenda, filiais, clientes, rotas e metas. Projeto em equipe. 45 de 519 commits." src="assets/card-locbeauty-locbeauty-front-light.svg" width="50%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-locbeauty-locbeauty-fastify-dark.svg"><img alt="LocBeauty API: API da plataforma de locação de equipamentos: agenda, clientes, filiais, rotas e metas. Privado. 36 de 341 commits." src="assets/card-locbeauty-locbeauty-fastify-light.svg" width="50%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-matheusppassos-template-backend-dark.svg"><img alt="Template API: API base para sistemas de gestão: agenda, clientes, financeiro, rotas e metas. Privado. 28 commits." src="assets/card-matheusppassos-template-backend-light.svg" width="50%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-matheusppassos-template-front-dark.svg"><img alt="Template Web: Front-end base para sistemas de gestão: painel, agenda, clientes e financeiro. Privado. 27 commits." src="assets/card-matheusppassos-template-front-light.svg" width="50%"></picture><a href="https://github.com/Rhauan178/Stoki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rhauan178-stoki-dark.svg"><img alt="Stoki: Gestão de restaurantes e bares: mesas, pedidos e estoque com baixa automática. Projeto em equipe. 18 de 39 commits." src="assets/card-rhauan178-stoki-light.svg" width="50%"></picture></a></p>
+<p><a href="https://github.com/locbeauty/locbeauty-front"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-locbeauty-locbeauty-front-dark.svg"><img alt="LocBeauty: Gestão de locação de equipamentos: agenda, filiais, clientes, rotas e metas. Projeto em equipe. 46 de 520 commits." src="assets/card-locbeauty-locbeauty-front-light.svg" width="50%"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-locbeauty-locbeauty-fastify-dark.svg"><img alt="LocBeauty API: API da plataforma de locação de equipamentos: agenda, clientes, filiais, rotas e metas. Privado. 36 de 341 commits." src="assets/card-locbeauty-locbeauty-fastify-light.svg" width="50%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-matheusppassos-template-backend-dark.svg"><img alt="Template API: API base para sistemas de gestão: agenda, clientes, financeiro, rotas e metas. Privado. 28 commits." src="assets/card-matheusppassos-template-backend-light.svg" width="50%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-matheusppassos-template-front-dark.svg"><img alt="Template Web: Front-end base para sistemas de gestão: painel, agenda, clientes e financeiro. Privado. 27 commits." src="assets/card-matheusppassos-template-front-light.svg" width="50%"></picture><a href="https://github.com/Rhauan178/Stoki"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-rhauan178-stoki-dark.svg"><img alt="Stoki: Gestão de restaurantes e bares: mesas, pedidos e estoque com baixa automática. Projeto em equipe. 18 de 39 commits." src="assets/card-rhauan178-stoki-light.svg" width="50%"></picture></a></p>
 <!-- featured:end -->
 
 ## Linha do tempo de commits
 
 <!-- timeline:start -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img alt="Linha do tempo com 182 commits em 17 repositórios, de agosto 2025 a outubro 2026. Os números de cada repositório estão na tabela abaixo." src="assets/timeline-light.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><img alt="Linha do tempo com 183 commits em 17 repositórios, de agosto 2025 a outubro 2026. Os números de cada repositório estão na tabela abaixo." src="assets/timeline-light.svg" width="100%"></picture>
 <!-- timeline:end -->
 
 ## Stack
@@ -27,7 +27,7 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 <!-- repos:start -->
 | Projeto | Sobre | Commits |
 | :-- | :-- | --: |
-| [**LocBeauty**](https://github.com/locbeauty/locbeauty-front)<br><sub>em equipe · locbeauty</sub> | Plataforma de gestão para locação de equipamentos: agendamentos, filiais, clientes, rotas, metas e dashboards.<br>`TypeScript` `Next.js` `React` `Tailwind CSS` `TanStack Query` | **45**&nbsp;de&nbsp;519<br><sub>último:&nbsp;set&nbsp;2026</sub> |
+| [**LocBeauty**](https://github.com/locbeauty/locbeauty-front)<br><sub>em equipe · locbeauty</sub> | Plataforma de gestão para locação de equipamentos: agendamentos, filiais, clientes, rotas, metas e dashboards.<br>`TypeScript` `Next.js` `React` `Tailwind CSS` `TanStack Query` | **46**&nbsp;de&nbsp;520<br><sub>último:&nbsp;out&nbsp;2026</sub> |
 | **LocBeauty API**<br><sub>privado</sub> | API da plataforma de locação de equipamentos: agendamentos, clientes, filiais, rotas e metas, com login JWT.<br>`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker` `Vitest` | **36**&nbsp;de&nbsp;341<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | [**LocalTuristico**](https://github.com/matheusppassos/LocalTuristico) | Sem descrição.<br>`HTML` | **1**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
 | **Template API**<br><sub>privado</sub> | API base para sistemas de gestão, com agenda, clientes, financeiro, rotas, metas e acesso por filial.<br>`TypeScript` `Node.js` `Fastify` `Prisma` `PostgreSQL` `Docker` `Vitest` | **28**<br><sub>último:&nbsp;set&nbsp;2026</sub> |
@@ -45,5 +45,5 @@ Olá! Sou o Matheus, desenvolvedor full stack. No back-end construo APIs com **J
 | [**Stoki (protótipo)**](https://github.com/matheusppassos/Stoki) | Primeira versão do Stoki, com as telas desktop do restaurante em JavaFX.<br>`Java` `JavaFX` | **5**<br><sub>último:&nbsp;out&nbsp;2025</sub> |
 | [**Game Java**](https://github.com/matheusppassos/Game-Java) | Minijogo de batalha por turnos entre avatares.<br>`Java` | **2**<br><sub>último:&nbsp;ago&nbsp;2025</sub> |
 
-<sub>182 commits meus em 17 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 27 out 2026.</sub>
+<sub>183 commits meus em 17 repositórios (3 privados, sem link), somando todos os branches. Atualizado automaticamente em 28 out 2026.</sub>
 <!-- repos:end -->
